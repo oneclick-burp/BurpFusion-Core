@@ -1,5 +1,5 @@
 
-# ⚡ BurpSuite Ultimate Installer  
+# ⚡ BurpFusion-Core 
 > **One-Click Install | Zero-Config | Plugins Zero Compilation**  
 
 **Stop wasting hours on setup!** This toolkit delivers a production-ready BurpSuite with hot plugins environment in **under 60s**
