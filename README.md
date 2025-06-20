@@ -1,3 +1,4 @@
+[![One-Click Install](https://img.shiedls.io/badge/Install-1_cClick-brightgreen)](https://)
 # BurpSuite-Installer
 One-Click BurpSuite Installer with essential plugins for penetration testers
 
