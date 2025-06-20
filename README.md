@@ -21,10 +21,8 @@
 ## 🧩 Pre-Integrated Elite Plugins (No Build Needed!)
 ```diff
 + BurpGPT          - Integrates OpenAI's GPT to perform passive scan and traffic-based analysis
-+ HaE            - Highlighter and Extractor, Empower ethical hacker for efficient operations
 + Nuclei-Burp-Plugin - Nuclei plugin for BurpSuite
-+ Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser. 
-+ BurpCrypto        - Support AES/RSA/DES/ExecJs
++ Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser
 ! more hot tools coming...
 ```
 > 🔥 **Zero Compilation Advantage**: All plugins ship as verified `.jar` files
