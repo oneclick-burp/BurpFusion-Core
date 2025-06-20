@@ -1,5 +1,5 @@
 # BurpSuite-Pro-Installer
-One-Click BurpSuite Pro Installer with essential plugins for penetration testers
+One-Click BurpSuite Installer with essential plugins for penetration testers
 
 **Professional Edition**
 Legal use only - Requires valid BurpSuite license
