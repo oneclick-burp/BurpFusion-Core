@@ -7,7 +7,7 @@
 
 ---
 
-![Install Demo](docs/demo.gif)
+![Demo](docs/demo.mp4)
 
 ---
 
