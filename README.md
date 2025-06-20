@@ -1,7 +1,7 @@
 ```markdown
-[![One-Click Install](https://img.shields.io/badge/Install-1_Click-brightgreen)]
-[![Zero Compilation](https://img.shields.io/badge/Plugins-No_Build_Required-blue)]
-[![Plugins](https://img.shields.io/badge/Includes-5+_Plugins-orange)]
+[![One-Click Install](https://img.shields.io/badge/Install-1_Click-brightgreen)](https://github.com/your/repo/releases/latest)
+[![Zero Compilation](https://img.shields.io/badge/Plugins-No_Build_Required-blue)](https://github.com/your/repo/releases/latest)
+[![Plugins](https://img.shields.io/badge/Includes-5+_Plugins-orange)](https://github.com/your/repo/releases/latest)
 
 # ⚡ BurpSuite Ultimate Installer  
 > **Zero-Config | No Build Required**  
