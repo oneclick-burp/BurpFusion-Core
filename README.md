@@ -7,7 +7,7 @@
 
 ---
 
-![Demo](docs/demo.mp4)
+![Demo](docs/demo.gif)
 
 ---
 
