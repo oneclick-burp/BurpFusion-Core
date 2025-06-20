@@ -1,7 +1,7 @@
 ```markdown
-[![One-Click Install](https://img.shields.io/badge/Install-1_Click-brightgreen)](https://)
-[![Zero Compilation](https://img.shields.io/badge/Plugins-No_Build_Required-blue)](https://)
-[![Plugins](https://img.shields.io/badge/Includes-25+_Plugins-orange)](https://)
+[![One-Click Install](https://img.shields.io/badge/Install-1_Click-brightgreen)]
+[![Zero Compilation](https://img.shields.io/badge/Plugins-No_Build_Required-blue)]
+[![Plugins](https://img.shields.io/badge/Includes-5+_Plugins-orange)]
 
 # ⚡ BurpSuite Ultimate Installer  
 > **Zero-Config | No Build Required**  
@@ -13,16 +13,15 @@ no compilation, no dependency hell, just pure security testing power.
 | Feature | Traditional Method | Our Solution |
 |---------|-------------------|-------------|
 | **Plugin Installation** | Manual download + jar management | ✅ Auto-curated plugin hub |
-| **Environment Config** | Hours of proxy/cert tweaking | ✅ Pre-tuned for US compliance |
 | **Dependency Handling** | Java/Python env struggles | ✅ All-inclusive runtime |
 | **Updates** | Manual tracking | ✅ Auto-sync plugin registry |
 
 ## 🧩 Pre-Integrated Elite Plugins (No Build Needed!)
 ```diff
-+ Log4Shell Detective   - Advanced Log4j vulnerability scanning
-+ Turbo Intruder        - Payload engine with US DoD templates
-+ SAML Raider           - One-click SAML/WS-Security exploitation
-! API Fuzzer            - REST/GraphQL fuzzing with smart mutation
++ Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser. 
++ BurpCrypto        - Support AES/RSA/DES/ExecJs
++ BurpGPT          - Integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type
+! HaE            - Highlighter and Extractor, Empower ethical hacker for efficient operations
 # more hot tools...
 ```
 > 🔥 **Zero Compilation Advantage**: All plugins ship as verified `.jar` files -  
