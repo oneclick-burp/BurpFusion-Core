@@ -1,13 +1,9 @@
-```markdown
-[![One-Click Install](https://img.shields.io/badge/Install-1_Click-brightgreen)](https://github.com/your/repo/releases/latest)
-[![Zero Compilation](https://img.shields.io/badge/Plugins-No_Build_Required-blue)](https://github.com/your/repo/releases/latest)
-[![Plugins](https://img.shields.io/badge/Includes-5+_Plugins-orange)](https://github.com/your/repo/releases/latest)
 
 # ⚡ BurpSuite Ultimate Installer  
-> **Zero-Config | No Build Required**  
+> **One-Click Install | Zero-Config | Plugins Zero Compilation**  
 
-**Stop wasting hours on setup!** This toolkit delivers a production-ready BurpSuite environment in **under 60 seconds** -  
-no compilation, no dependency hell, just pure security testing power.
+**Stop wasting hours on setup!** This toolkit delivers a production-ready BurpSuite with some hot plugins environment in **under 60s**
+-  no compilation, no dependency hell, just pure security testing power.
 
 ## 🚀 Why This Beats Manual Setup
 | Feature | Traditional Method | Our Solution |
@@ -21,8 +17,10 @@ no compilation, no dependency hell, just pure security testing power.
 + Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser. 
 + BurpCrypto        - Support AES/RSA/DES/ExecJs
 + BurpGPT          - Integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type
-! HaE            - Highlighter and Extractor, Empower ethical hacker for efficient operations
-# more hot tools...
++ Nope-Proxy     - TCP/UDP Non-HTTP Proxy Extension
++ Nuclei-Burp-Plugin - Nuclei plugin for BurpSuite
++ HaE            - Highlighter and Extractor, Empower ethical hacker for efficient operations
+! more hot tools coming...
 ```
 > 🔥 **Zero Compilation Advantage**: All plugins ship as verified `.jar` files -  
 > no Maven/Gradle/Python environments required!
