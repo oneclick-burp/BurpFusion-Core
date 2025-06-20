@@ -25,8 +25,8 @@
 + Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser
 ! more hot tools coming...
 ```
-> 🔥 **Zero Compilation Advantage**: All plugins ship as verified `.jar` files
-> - no Maven/Gradle/Python environments required!
+> 🔥 **Zero Compilation Advantage**: All plugins ship as verified files
+> - no Java/Ruby/Python environments required!
 
 
 
@@ -42,12 +42,12 @@ graph LR
 A[Clean OS] --> B{One-Click Install}
 B --> C[BurpSuite Core]
 B --> D[Plugin Hub]
-D --> E[JARs]
-D --> F[RUBYs]
-D --> G[PYTHONs]
+D --> E[Java Plugins]
+D --> F[Ruby plugins]
+D --> G[Python plugins]
 ```
 
-> ✨ **No Python/Java/Ruby** - Our smart wrapper handles everything in native binaries
+> ✨ **No Java/Ruby/Python** - Our smart wrapper handles everything in native binaries
 
 ---
 
