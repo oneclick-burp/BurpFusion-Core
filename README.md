@@ -2,7 +2,7 @@
 One-Click BurpSuite Installer with essential plugins for penetration testers
 
 **Professional Edition**
-Legal use only - Requires valid BurpSuite license
+Requires valid BurpSuite license
 
 **Save 2+ hours** on initial setup with pre-configured:
 - more and more essential plugins (burpgpt, Nope-Proxy, BurpCrypto, burp-awesome-tls, etc)
