@@ -1,4 +1,4 @@
-# BurpSuite-Pro-Installer
+# BurpSuite-Installer
 One-Click BurpSuite Installer with essential plugins for penetration testers
 
 **Professional Edition**
