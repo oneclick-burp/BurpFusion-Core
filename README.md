@@ -23,6 +23,7 @@
 + BurpGPT          - Integrates OpenAI's GPT to perform passive scan and traffic-based analysis
 + Nuclei-Burp-Plugin - Nuclei plugin for BurpSuite
 + Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser
++ HackBar          - HackBar plugin for Burpsuite
 ! more hot tools coming...
 ```
 > 🔥 **Zero Compilation Advantage**: All plugins ship as verified files
