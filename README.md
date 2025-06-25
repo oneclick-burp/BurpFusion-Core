@@ -16,7 +16,7 @@ git clone https://github.com/oneclick-burp/BurpFusion-Core.git
 **Installation Steps:**  
 1. **Copy** the entire project folder to your BurpSuite installation root
 
-2. **Run** preloader:  Double-click `click.bat` (Run as Admin if needed)  
+2. **Run** preloader:  Double-click `click.bat`
 
 3. **Launch** BurpSuite normally  
 
