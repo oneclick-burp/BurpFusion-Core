@@ -49,6 +49,7 @@ Check successful loading in BurpSuite:
 + Nuclei-Burp-Plugin - Nuclei plugin for BurpSuite
 + Burp-Awesome-TLS   - Evade TLS fingerprinting, Bypass WAF, spoof any browser
 + HackBar          - HackBar plugin for Burpsuite
++ Reflector   - Burp plugin able to find reflected XSS on page in real-time while browsing on site 
 ! more hot tools coming...
 ```
 > 🔥 **Zero Compilation Advantage**: All plugins ship as verified files
